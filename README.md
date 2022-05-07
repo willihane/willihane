@@ -1,4 +1,4 @@
- ### Oiii, eu sou a Willi. Seja bem-vindo(a)! 😄  
+ ### Oi, eu sou a Willi. Seja bem-vindo(a)! 😄  
  
 💬 Recifense, tenho 26 anos, sou curiosa por natureza e apaixonada por programação e finanças.
   Aventureira, persistente, autodidata, comunicativa.. Estou sempre empolgada buscando estratégias para resolver desafios.
