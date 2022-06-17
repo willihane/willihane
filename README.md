@@ -1,7 +1,7 @@
- ### Oi, eu sou a Willi. Seja bem-vindo(a)! 😄  
+ ## Oi! 😄 
+ <hr>
  
-Recifense, tenho 26 anos, sou curiosa por natureza e apaixonada por programação e finanças.
-  Aventureira, persistente, autodidata, comunicativa.. Estou sempre empolgada buscando estratégias para resolver desafios.
+Sou pernambucana, tenho 26 anos, sou curiosa por natureza e apaixonada por programação e finanças.
 
 ✨ 100% disponível para conquistar minha primeira vaga de desenvolvedora. ✨
  
