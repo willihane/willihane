@@ -1,5 +1,4 @@
  ## Oi! 😄 
- <hr>
  
 Sou pernambucana, tenho 26 anos, sou curiosa por natureza e apaixonada por programação e finanças.
 
