@@ -1,8 +1,8 @@
  ## Oláaa, eu sou a Willi!  😄 
 
-#### Curiosa por natureza & apaixonada por programação e finanças. 
+#### Curiosa por natureza & apaixonada por tecnologia e finanças. Estou sempre empolgada buscando estratégias para resolver desafios e aprender coisas novas.
 
-Sou desenvolvedora Full stack - com conhecimento à nível júnior em Java, Spring Boot, SQL, MySQL, Postman, Git/GitHub, SCRUM, Bootstrap, HTML, CSS, JavaScript, TypeScript e Angular.
+Sou estudante de desenvolvimento de sistemas - com conhecimento em Java, Spring Boot, SQL, MySQL, Postman, Git/GitHub, SCRUM, Bootstrap, HTML, CSS, JavaScript, TypeScript e Angular.
 
 
  ##### Contatos:
