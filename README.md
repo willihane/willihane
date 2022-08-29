@@ -2,7 +2,8 @@
 
 #### Curiosa por natureza & apaixonada por tecnologia e finanças. Estou sempre empolgada buscando estratégias para resolver desafios e aprender coisas novas.
 
-Sou estudante de desenvolvimento de sistemas - com conhecimento em Java, Spring Boot, SQL, MySQL, Postman, Git/GitHub, SCRUM, Bootstrap, HTML, CSS, JavaScript, TypeScript e Angular.
+Possuo experiência em áreas administrativas e negócios. Sou mamãe do Gustavo, autodidata, engajada, persistente, entusiasta, tenho aptidão para lidar com os diversos perfis de pessoas, capacidade investigativa, resiliente, ótimo relacionamento interpessoal e boa comunicação verbal e escrita.
+Tenho conhecimentos técnicos e práticos como desenvolvedora de sistemas nas linguagens Java; JavaScript; Typescript; SQL; NoSQL; HTML e CSS. E nas ferramentas: Spring Boot; MySQL; MongoDB; SQL Server; AWS; Postman; Git; GitHub; Scrum; Boostrap; Angular; Figma e GIMP.
 
 
  ##### Contatos:
