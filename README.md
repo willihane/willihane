@@ -3,7 +3,7 @@
 #### Curiosa por natureza & apaixonada por tecnologia. Estou sempre empolgada buscando estratégias para resolver desafios e aprender coisas novas.
 
 Possuo experiência em áreas administrativas e de negócios. Sou autodidata, engajada, persistente, entusiasta, tenho aptidão para lidar com os diversos perfis de pessoas, capacidade investigativa, resiliente, ótimo relacionamento interpessoal e boa comunicação verbal e escrita.
-Tenho conhecimentos técnicos e práticos como desenvolvedora de sistemas nas linguagens Abap; Java; JavaScript; Typescript; SQL; NoSQL; HTML e CSS. E nas ferramentas: Spring Boot; MySQL; MongoDB; SQL Server; AWS; Postman; Git; GitHub; Scrum; Boostrap; Angular; Figma e GIMP.
+Tenho conhecimentos técnicos e práticos como desenvolvedora de sistemas nas linguagens Abap; Java; JavaScript; Typescript; SQL; NoSQL; HTML e CSS. E nas ferramentas: Spring Boot; MySQL; SQL Server; AWS; Postman; Git; GitHub; Scrum; Boostrap; Angular; Figma e GIMP.
 
 
  ##### Contatos:
