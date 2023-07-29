@@ -1,6 +1,6 @@
  ## Oláaa, eu sou a Willi!  😄 
 
-#### Curiosa por natureza & apaixonada por tecnologia. Estou sempre empolgada buscando estratégias para resolver desafios e aprender coisas novas.
+ Curiosa por natureza & apaixonada por tecnologia. Estou sempre empolgada buscando estratégias para resolver desafios e aprender coisas novas.
 
  <div>
   <a href="https://github.com/willihane">
